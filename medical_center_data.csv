@@ -1,0 +1,101 @@
+ID,Data,Località,Servizio,Spesa,Feedback_Text,Feedback_Sentiment,Prenotazioni,Accoglienza,Professionalità
+1100,2024-01-24 06:29:47,Boves,radiologia,111,La prenotazione è stata deludente. L'accoglienza non è stata all'altezza. La professionalità ha lasciato molto a desiderare.,negativo,2.0,1.0,1.0
+1152,2023-09-10 13:28:30,Dronero,dermatologia,77,La prenotazione poteva essere migliore. L'accoglienza è stata calorosa e amichevole. Elevata professionalità e competenza del personale.,positivo,1.0,5.0,5.0
+1164,2023-10-08 11:52:08,Busca,fisioterapia,110,La prenotazione è stata deludente. La professionalità ha lasciato molto a desiderare.,negativo,1.5,3.0,1.0
+1483,2024-01-01 00:13:01,Boves,radiologia,286,La prenotazione è stata deludente. L'accoglienza non è stata all'altezza. Elevata professionalità e competenza del personale.,neutro,1.0,1.0,5.0
+1575,2023-12-19 03:36:24,Busca,fisioterapia,196,La prenotazione è stata deludente. L'accoglienza è stata adeguata. La professionalità ha lasciato molto a desiderare.,negativo,1.5,4.0,1.0
+1791,2023-12-12 11:07:09,Cuneo,psicologia,50,La prenotazione è stata deludente. L'accoglienza non è stata all'altezza. Elevata professionalità e competenza del personale.,neutro,2.0,2.0,5.0
+1809,2023-09-08 05:48:55,Boves,fisioterapia,141,La prenotazione è stata deludente. La professionalità era sufficiente.,negativo,1.0,3.0,5.0
+1868,2023-09-13 11:28:21,Cherasco,nutrizione,56,La prenotazione poteva essere migliore. L'accoglienza è stata calorosa e amichevole.,positivo,2.0,4.0,3.0
+1914,2023-12-13 13:23:19,Boves,radiologia,116,La prenotazione è stata deludente. L'accoglienza non è stata all'altezza. La professionalità ha lasciato molto a desiderare.,neutro,1.0,2.0,2.0
+2083,2023-12-03 04:14:35,Centallo,fisioterapia,216,L'accoglienza non è stata all'altezza.,negativo,3.0,1.0,3.0
+2260,2023-09-04 12:26:24,Caraglio,psicologia,119,La prenotazione è stata deludente. L'accoglienza non è stata all'altezza. La professionalità ha lasciato molto a desiderare.,negativo,1.0,1.0,1.0
+2383,2023-10-05 12:35:13,Busca,dermatologia,202,La prenotazione è stata deludente. L'accoglienza non è stata all'altezza. La professionalità ha lasciato molto a desiderare.,neutro,1.0,1.0,2.0
+2531,2023-12-07 23:10:40,Centallo,psicologia,191,La prenotazione poteva essere migliore. L'accoglienza poteva essere più calda. Elevata professionalità e competenza del personale.,positivo,2.0,2.0,4.0
+2532,2023-09-30 05:53:47,Borgo San Dalmazzo,radiologia,150,La prenotazione poteva essere migliore. L'accoglienza è stata calorosa e amichevole.,positivo,1.0,4.0,3.0
+2578,2023-10-06 12:11:10,Cherasco,radiologia,181,La prenotazione è stata deludente. L'accoglienza è stata adeguata. La professionalità ha lasciato molto a desiderare.,negativo,1.5,5.0,1.0
+2617,2023-11-08 05:40:02,Borgo San Dalmazzo,sportiva,211,La prenotazione è stata deludente. La professionalità ha lasciato molto a desiderare.,negativo,2.0,3.0,1.0
+2625,2023-11-23 07:06:38,Cuneo,dermatologia,262,La prenotazione è stata deludente. L'accoglienza non è stata all'altezza. La professionalità ha lasciato molto a desiderare.,neutro,1.0,2.0,1.0
+2643,2023-09-04 01:32:43,Mondovì,fisioterapia,231,L'accoglienza è stata calorosa e amichevole.,positivo,2.5,4.0,3.0
+2850,2023-11-20 15:24:23,Busca,dermatologia,76,La prenotazione poteva essere migliore. L'accoglienza è stata calorosa e amichevole. Elevata professionalità e competenza del personale.,positivo,1.0,5.0,5.0
+3019,2023-10-26 04:39:13,Busca,radiologia,70,Elevata professionalità e competenza del personale.,positivo,2.5,3.0,4.0
+3032,2024-01-16 13:27:39,Dronero,radiologia,79,La prenotazione è stata deludente. L'accoglienza non è stata all'altezza. Elevata professionalità e competenza del personale.,neutro,2.0,1.0,5.0
+3403,2023-10-23 01:24:41,Centallo,fisioterapia,90,L'accoglienza non è stata all'altezza. La professionalità ha lasciato molto a desiderare.,neutro,3.0,2.0,1.0
+3512,2023-12-27 06:54:07,Borgo San Dalmazzo,nutrizione,124,L'accoglienza è stata calorosa e amichevole. Elevata professionalità e competenza del personale.,positivo,3.5,4.0,4.0
+3513,2023-10-19 00:16:52,Cherasco,radiologia,208,La prenotazione è stata deludente. La professionalità ha lasciato molto a desiderare.,negativo,1.0,3.0,1.0
+3562,2023-09-13 15:32:39,Busca,dermatologia,107,La prenotazione è stata deludente. L'accoglienza non è stata all'altezza. La professionalità ha lasciato molto a desiderare.,negativo,1.0,2.0,2.0
+3591,2023-11-17 14:26:48,Borgo San Dalmazzo,psicologia,159,La prenotazione è stata deludente. L'accoglienza è stata adeguata.,negativo,2.0,4.0,3.0
+3650,2023-11-09 04:33:12,Caraglio,nutrizione,245,La prenotazione è stata deludente. L'accoglienza non è stata all'altezza. La professionalità ha lasciato molto a desiderare.,negativo,1.0,1.0,1.0
+3773,2024-01-01 02:32:07,Boves,fisioterapia,299,L'accoglienza è stata calorosa e amichevole. Elevata professionalità e competenza del personale.,positivo,3.0,4.0,5.0
+3853,2024-01-14 06:41:36,Savigliano,sportiva,231,La prenotazione è stata deludente. L'accoglienza non è stata all'altezza. La professionalità ha lasciato molto a desiderare.,neutro,2.0,1.0,2.0
+3997,2023-12-30 15:08:16,Borgo San Dalmazzo,nutrizione,78,La prenotazione è stata deludente. L'accoglienza è stata calorosa e amichevole. La professionalità ha lasciato molto a desiderare.,neutro,2.0,5.0,2.0
+4040,2023-10-13 09:53:33,Busca,dermatologia,148,La prenotazione è stata deludente. L'accoglienza è stata calorosa e amichevole. Elevata professionalità e competenza del personale.,neutro,1.0,4.0,5.0
+4106,2023-09-01 16:08:07,Boves,radiologia,79,La prenotazione poteva essere migliore. L'accoglienza è stata calorosa e amichevole. Elevata professionalità e competenza del personale.,positivo,2.0,4.0,5.0
+4134,2023-12-02 10:31:38,Boves,radiologia,51,La prenotazione è stata deludente. L'accoglienza non è stata all'altezza.,neutro,2.0,2.0,3.0
+4174,2023-09-21 01:16:13,Boves,fisioterapia,83,La prenotazione poteva essere migliore. L'accoglienza è stata calorosa e amichevole. Elevata professionalità e competenza del personale.,positivo,2.0,5.0,4.0
+4305,2023-10-30 13:41:17,Centallo,sportiva,148,La prenotazione è stata deludente. La professionalità ha lasciato molto a desiderare.,negativo,1.5,3.0,1.0
+4380,2023-12-26 13:32:24,Caraglio,nutrizione,55,La professionalità ha lasciato molto a desiderare.,negativo,2.5,3.0,2.0
+4488,2024-01-29 22:26:02,Busca,sportiva,185,La prenotazione è stata deludente. L'accoglienza non è stata all'altezza.,neutro,1.0,2.0,3.0
+4686,2024-01-02 14:39:31,Caraglio,nutrizione,105,La prenotazione è stata deludente. L'accoglienza non è stata all'altezza. La professionalità ha lasciato molto a desiderare.,negativo,1.0,1.0,2.0
+4803,2023-09-10 22:26:22,Boves,fisioterapia,138,La prenotazione poteva essere migliore. L'accoglienza poteva essere più calda. Elevata professionalità e competenza del personale.,positivo,1.0,2.0,5.0
+4868,2023-10-31 14:54:50,Cuneo,fisioterapia,51,La prenotazione è stata deludente. L'accoglienza non è stata all'altezza.,negativo,1.0,1.0,3.0
+4948,2023-12-21 10:54:58,Boves,fisioterapia,284,La prenotazione è stata deludente. Elevata professionalità e competenza del personale.,neutro,2.0,3.0,5.0
+5001,2023-09-16 17:41:46,Cherasco,radiologia,84,La prenotazione poteva essere migliore. L'accoglienza poteva essere più calda. Elevata professionalità e competenza del personale.,positivo,2.0,2.0,4.0
+5019,2023-12-04 08:38:43,Savigliano,psicologia,294,La prenotazione è stata deludente. L'accoglienza non è stata all'altezza. Elevata professionalità e competenza del personale.,neutro,1.0,2.0,5.0
+5020,2023-10-17 07:49:22,Boves,fisioterapia,266,Elevata professionalità e competenza del personale.,positivo,2.5,3.0,4.0
+5073,2023-12-03 16:54:40,Cuneo,radiologia,265,La prenotazione poteva essere migliore. L'accoglienza è stata calorosa e amichevole. C'è spazio per migliorare la professionalità.,positivo,2.0,4.0,1.0
+5170,2023-12-20 08:09:33,Borgo San Dalmazzo,sportiva,226,La prenotazione poteva essere migliore. L'accoglienza poteva essere più calda. Elevata professionalità e competenza del personale.,positivo,2.0,1.0,5.0
+5378,2024-01-04 05:33:24,Boves,dermatologia,196,L'accoglienza è stata calorosa e amichevole. La professionalità ha lasciato molto a desiderare.,neutro,3.0,5.0,2.0
+5494,2023-09-04 01:55:50,Caraglio,radiologia,222,La prenotazione è stata deludente. L'accoglienza non è stata all'altezza.,negativo,1.0,2.0,3.0
+5512,2023-10-25 12:23:36,Cuneo,radiologia,144,La prenotazione è stata deludente. L'accoglienza non è stata all'altezza. La professionalità ha lasciato molto a desiderare.,neutro,1.0,2.0,2.0
+5553,2023-10-22 23:00:50,Mondovì,nutrizione,57,La prenotazione è stata deludente. L'accoglienza è stata adeguata. La professionalità ha lasciato molto a desiderare.,negativo,1.0,4.0,1.0
+5556,2024-01-03 21:19:18,Busca,dermatologia,176,La prenotazione è stata deludente. L'accoglienza è stata calorosa e amichevole. Elevata professionalità e competenza del personale.,neutro,1.0,4.0,4.0
+5560,2023-11-16 08:19:13,Busca,radiologia,250,La prenotazione poteva essere migliore.,positivo,2.0,3.0,3.0
+5576,2023-12-25 12:00:16,Cuneo,psicologia,108,La prenotazione poteva essere migliore. L'accoglienza è stata calorosa e amichevole.,positivo,2.0,5.0,3.0
+5791,2023-09-01 14:45:55,Caraglio,fisioterapia,94,La prenotazione poteva essere migliore. L'accoglienza è stata calorosa e amichevole. Elevata professionalità e competenza del personale.,positivo,1.5,5.0,5.0
+5793,2023-12-27 08:25:59,Cuneo,fisioterapia,182,La prenotazione è stata deludente. Elevata professionalità e competenza del personale.,neutro,2.0,3.0,4.0
+5851,2023-09-22 16:58:21,Caraglio,radiologia,298,La prenotazione poteva essere migliore. Elevata professionalità e competenza del personale.,positivo,2.0,3.0,5.0
+6016,2023-10-30 20:10:03,Savigliano,fisioterapia,283,La prenotazione è stata deludente. L'accoglienza non è stata all'altezza. La professionalità ha lasciato molto a desiderare.,negativo,2.0,1.0,1.0
+6142,2023-09-07 11:53:39,Busca,radiologia,144,La prenotazione è stata deludente. Elevata professionalità e competenza del personale.,neutro,2.0,3.0,5.0
+6162,2024-01-12 18:30:14,Caraglio,fisioterapia,274,L'accoglienza è stata calorosa e amichevole. C'è spazio per migliorare la professionalità.,positivo,3.5,5.0,1.0
+6381,2024-01-14 06:37:28,Borgo San Dalmazzo,radiologia,275,L'accoglienza è stata calorosa e amichevole.,positivo,2.5,5.0,3.0
+6404,2023-09-04 20:39:11,Cuneo,radiologia,158,La prenotazione poteva essere migliore. L'accoglienza è stata calorosa e amichevole. Elevata professionalità e competenza del personale.,positivo,1.5,5.0,5.0
+6521,2023-12-01 04:48:29,Cuneo,fisioterapia,176,L'accoglienza è stata adeguata.,negativo,2.5,4.0,3.0
+6533,2023-12-30 23:24:55,Busca,fisioterapia,277,La prenotazione è stata deludente. L'accoglienza è stata calorosa e amichevole. La professionalità ha lasciato molto a desiderare.,neutro,2.0,5.0,2.0
+6685,2023-10-30 08:48:55,Dronero,radiologia,96,La prenotazione poteva essere migliore. L'accoglienza è stata calorosa e amichevole. Elevata professionalità e competenza del personale.,positivo,2.0,5.0,5.0
+6720,2023-09-23 20:20:08,Caraglio,psicologia,168,L'accoglienza non è stata all'altezza. La professionalità ha lasciato molto a desiderare.,neutro,3.0,1.0,2.0
+6725,2023-12-18 13:04:06,Boves,psicologia,162,La prenotazione è stata deludente. L'accoglienza è stata adeguata. La professionalità ha lasciato molto a desiderare.,negativo,1.0,4.0,1.0
+6882,2024-01-02 07:54:09,Busca,dermatologia,186,La prenotazione poteva essere migliore. L'accoglienza è stata calorosa e amichevole. Elevata professionalità e competenza del personale.,positivo,2.0,5.0,5.0
+6942,2023-11-27 12:18:36,Boves,fisioterapia,145,La prenotazione è stata deludente. L'accoglienza è stata calorosa e amichevole. Elevata professionalità e competenza del personale.,neutro,2.0,5.0,4.0
+7210,2023-11-15 15:13:44,Cherasco,fisioterapia,280,La prenotazione è stata facile e veloce. L'accoglienza è stata calorosa e amichevole. Elevata professionalità e competenza del personale.,positivo,4.0,5.0,5.0
+7243,2023-09-08 04:45:57,Busca,radiologia,177,La prenotazione poteva essere migliore. Elevata professionalità e competenza del personale.,positivo,2.0,3.0,5.0
+7290,2023-12-16 12:11:07,Savigliano,fisioterapia,296,L'accoglienza è stata calorosa e amichevole. Elevata professionalità e competenza del personale.,neutro,3.0,5.0,4.0
+7327,2023-09-09 12:56:44,Busca,psicologia,120,La prenotazione è stata deludente. L'accoglienza è stata calorosa e amichevole. Elevata professionalità e competenza del personale.,neutro,1.0,5.0,4.0
+7348,2024-01-22 09:38:16,Caraglio,fisioterapia,241,La prenotazione è stata deludente. L'accoglienza è stata calorosa e amichevole. Elevata professionalità e competenza del personale.,neutro,2.0,4.0,5.0
+7459,2023-12-30 13:55:50,Mondovì,psicologia,126,La prenotazione è stata deludente. L'accoglienza non è stata all'altezza.,negativo,1.0,2.0,3.0
+7533,2023-09-20 21:56:26,Centallo,radiologia,75,La prenotazione è stata deludente. L'accoglienza non è stata all'altezza.,neutro,1.0,2.0,3.0
+7542,2023-11-18 16:54:53,Cuneo,fisioterapia,278,L'accoglienza non è stata all'altezza. La professionalità ha lasciato molto a desiderare.,negativo,3.0,1.0,1.0
+7547,2023-10-04 18:49:11,Cuneo,nutrizione,140,La prenotazione è stata deludente. La professionalità ha lasciato molto a desiderare.,negativo,1.0,3.0,1.0
+7558,2023-12-20 02:32:19,Cherasco,radiologia,241,La prenotazione poteva essere migliore. L'accoglienza poteva essere più calda. Elevata professionalità e competenza del personale.,positivo,1.0,1.0,4.0
+7603,2023-11-05 13:25:47,Cuneo,dermatologia,94,L'accoglienza è stata calorosa e amichevole. C'è spazio per migliorare la professionalità.,positivo,3.0,4.0,2.0
+7604,2023-09-08 12:16:48,Savigliano,radiologia,180,La prenotazione poteva essere migliore. Elevata professionalità e competenza del personale.,positivo,2.0,3.0,4.0
+7638,2024-01-30 11:13:53,Cuneo,sportiva,105,La prenotazione poteva essere migliore. L'accoglienza è stata calorosa e amichevole. Elevata professionalità e competenza del personale.,positivo,1.0,5.0,5.0
+7762,2023-11-27 11:33:06,Centallo,nutrizione,114,La prenotazione è stata deludente. L'accoglienza non è stata all'altezza. Elevata professionalità e competenza del personale.,neutro,2.0,2.0,5.0
+7848,2023-11-18 02:55:34,Dronero,radiologia,156,La prenotazione è stata deludente. L'accoglienza non è stata all'altezza.,negativo,1.0,2.0,3.0
+7961,2023-11-22 09:32:25,Cherasco,radiologia,64,Elevata professionalità e competenza del personale.,positivo,2.5,3.0,5.0
+8213,2024-01-19 08:53:40,Cuneo,psicologia,109,La prenotazione è stata deludente. La professionalità ha lasciato molto a desiderare.,negativo,1.0,3.0,2.0
+8280,2023-12-13 13:22:48,Borgo San Dalmazzo,radiologia,92,C'è spazio per migliorare la professionalità.,positivo,2.5,3.0,2.0
+8437,2023-10-09 02:48:50,Savigliano,dermatologia,211,La prenotazione è stata deludente. L'accoglienza non è stata all'altezza. La professionalità ha lasciato molto a desiderare.,neutro,2.0,2.0,2.0
+8511,2023-09-15 22:40:11,Borgo San Dalmazzo,nutrizione,267,L'accoglienza è stata adeguata. La professionalità ha lasciato molto a desiderare.,negativo,3.0,5.0,1.0
+8809,2023-12-04 23:24:44,Mondovì,radiologia,99,La prenotazione è stata deludente. L'accoglienza è stata adeguata.,negativo,1.0,4.0,3.0
+8906,2024-01-23 07:08:49,Borgo San Dalmazzo,fisioterapia,249,La prenotazione è stata deludente. L'accoglienza non è stata all'altezza. La professionalità ha lasciato molto a desiderare.,negativo,1.5,1.0,1.0
+9112,2023-12-18 12:18:45,Boves,radiologia,66,La prenotazione poteva essere migliore. Elevata professionalità e competenza del personale.,positivo,1.0,3.0,5.0
+9199,2023-11-20 14:44:42,Caraglio,dermatologia,87,La prenotazione è stata deludente. L'accoglienza è stata calorosa e amichevole. Elevata professionalità e competenza del personale.,neutro,2.0,4.0,5.0
+9215,2023-11-22 04:50:43,Borgo San Dalmazzo,radiologia,71,La prenotazione è stata deludente. La professionalità ha lasciato molto a desiderare.,neutro,2.0,3.0,2.0
+9262,2023-09-08 18:03:29,Cuneo,fisioterapia,210,,negativo,2.5,3.0,3.0
+9490,2023-12-09 22:28:21,Centallo,psicologia,197,L'accoglienza è stata calorosa e amichevole. Elevata professionalità e competenza del personale.,positivo,3.5,5.0,5.0
+9537,2023-10-10 18:02:53,Savigliano,radiologia,264,La prenotazione è stata deludente.,negativo,1.0,3.0,3.0
+9546,2024-01-21 14:32:00,Dronero,fisioterapia,66,L'accoglienza è stata calorosa e amichevole. La professionalità ha lasciato molto a desiderare.,neutro,3.0,4.0,1.0
+9593,2023-09-06 20:20:45,Cuneo,radiologia,198,La prenotazione poteva essere migliore. L'accoglienza poteva essere più calda. Elevata professionalità e competenza del personale.,positivo,2.0,2.0,5.0
+9641,2023-10-23 00:17:53,Savigliano,psicologia,129,La prenotazione è stata deludente. Elevata professionalità e competenza del personale.,neutro,1.0,3.0,4.0
+9996,2024-01-19 22:05:51,Caraglio,radiologia,242,La prenotazione è stata deludente. L'accoglienza non è stata all'altezza. La professionalità ha lasciato molto a desiderare.,negativo,2.0,1.0,2.0
